@@ -1,22 +1,7 @@
-# mohamedt.us Portfolio
-
-A polished static portfolio starter for Mohamed Tarek.
-
-## Files
-- index.html
-- styles.css
-- script.js
-
-## Before publishing
-Replace:
-- Project names/descriptions
-- GitHub URL
-- LinkedIn URL
-- CV link
-- Experience timeline
-
-## Domain
-Target domain:
-https://mohamedt.us
-
-You can host this static site on GitHub Pages or another static host, then point the domain's DNS to the host.
+# MohamedT.us — Platform v1
+Modular static foundation for a long-term AI/programming technology platform.
+- `index.html`: homepage
+- `pages/`: sections
+- `assets/css/main.css`: global design system
+- `assets/js/site.js`: shared header/footer
+Designed for GitHub Pages + `https://mohamedt.us`.
